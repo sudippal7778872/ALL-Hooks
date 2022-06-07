@@ -1,0 +1,4 @@
+useRef
+is use on uncontrolled element
+
+in example let see how we can get the enetred data in uncontrolled input filled

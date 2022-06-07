@@ -1,0 +1,15 @@
+useReducer()
+
+this is similar to useState.
+here we have same concept of reduce method.
+
+syntax:-
+const [state, dispatch] = useReducer(reducer, initialValue);
+// in initial state we can pass multiple object same as useState hook.
+//here reducer is a pure function. we can define it anywhere. also in another page as well.
+it takes to parameter 1. state and 2. action
+
+reducer(state, action){
+return something;
+}
+// and always need to return something. like reduce function.

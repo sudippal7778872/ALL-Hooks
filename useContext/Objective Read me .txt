@@ -1,0 +1,7 @@
+useContext()
+
+// this hook make easy to pass data throughout your app without manually passing props down the tree.
+
+
+
+
