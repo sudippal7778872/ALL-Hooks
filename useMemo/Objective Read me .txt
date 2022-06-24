@@ -1,0 +1,5 @@
+useMemo
+
+is use to call only perticular thing.
+
+in example : each changing all state is called. now we want to call only one state which we change.
